@@ -1,0 +1,1 @@
+This repository includes some codes about linear algebra and so on. I will add codes which i think is valuable and important. The main goal for me is to study machine learning deeply.
